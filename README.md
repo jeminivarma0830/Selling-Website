@@ -72,8 +72,6 @@ Open `index.html` in your browser.
 | POST   | /login       | Login user          |
 | POST   | /cart        | Add to cart         |
 
----
-
 ## 🔮 Future Improvements
 - 🔐 JWT Authentication  
 - 💳 Payment Integration (Razorpay/Stripe)  
@@ -81,12 +79,8 @@ Open `index.html` in your browser.
 - 🧑‍💼 Admin Dashboard  
 - ⚛️ React Frontend Upgrade  
 
----
-
 ## 📜 License
 This project is open-source and free to use.
-
----
 
 ## 👨‍💻 Author
 Developed by **You**
