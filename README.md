@@ -83,4 +83,4 @@ Open `index.html` in your browser.
 This project is open-source and free to use.
 
 ## 👨‍💻 Author
-Developed by **You**
+Developed by Jemini Verma
