@@ -11,8 +11,6 @@ This is a full-stack fashion e-commerce website where users can browse products,
 - 🌐 REST API integration  
 - 📦 Backend with database support  
 
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
