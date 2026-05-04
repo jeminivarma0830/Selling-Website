@@ -41,9 +41,6 @@ This is a full-stack fashion e-commerce website where users can browse products,
 ├── User.js
 ├── Cart.js
 
-
----
-
 ## ⚙️ Installation & Setup
 
 ### 1. Clone Repository
