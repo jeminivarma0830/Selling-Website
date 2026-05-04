@@ -63,8 +63,6 @@ node server.js
 ### 4. Open Frontend
 Open `index.html` in your browser.
 
----
-
 ## 🔌 API Endpoints
 
 | Method | Endpoint      | Description         |
