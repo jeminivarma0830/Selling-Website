@@ -25,8 +25,6 @@ This is a full-stack fashion e-commerce website where users can browse products,
 ### Database
 - MongoDB  
 
----
-
 ## 📂 Project Structure
 
 /project-folder
