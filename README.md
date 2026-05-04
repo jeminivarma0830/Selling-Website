@@ -3,8 +3,6 @@
 ## 📌 Description
 This is a full-stack fashion e-commerce website where users can browse products, add items to cart, and perform basic shopping actions. It is built using modern web technologies with both frontend and backend integration.
 
----
-
 ## 🚀 Features
 - 🛒 Product listing from database  
 - 🔍 Search functionality  
