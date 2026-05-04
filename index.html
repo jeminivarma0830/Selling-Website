@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Fashion Store</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Fashion Store</h1>
+  <input type="text" id="search" placeholder="Search...">
+  <button onclick="loadProducts()">Search</button>
+  <a href="cart.html">Cart</a>
+</header>
+
+<div id="products"></div>
+
+<script src="script.js"></script>
+</body>
+</html>
+
+
+// style.css
+
+body { font-family: Arial; background:#f5f5f5; }
+header { display:flex; gap:10px; padding:15px; background:black; color:white; }
+#products { display:grid; grid-template-columns:repeat(4,1fr); gap:20px; padding:20px; }
+.card { background:white; padding:10px; }
+img { width:100%; }
+button { padding:10px; background:black; color:white; border:none; }
